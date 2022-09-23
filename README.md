@@ -159,3 +159,12 @@ Nao houve nenhuma ganho de espaço, o arquivo binario ficou maior que o original
 ![image](https://user-images.githubusercontent.com/54191675/192070056-08857b62-196a-45c8-b2c0-898317eb8a1c.png)
 
 
+## Saida ## 
+O leitor deve esperar de saida as palavras e sua codificação:
+
+![image](https://user-images.githubusercontent.com/54191675/192070372-0faff0cb-ab4d-4651-9667-a8da2c77e05d.png)
+
+e que seu arquivo original, o texto "A arte da guerra" tenha convertido para binario no arquivo binary.dat.
+
+![image](https://user-images.githubusercontent.com/54191675/192070462-750f49eb-1dd9-4b03-8f6c-bca9b91738eb.png)
+
